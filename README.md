@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello there; welcome 👋🏾
 
-<!--
-**EgbinolaEmmanuel/EgbinolaEmmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 About Me
+Hello! I'm a passionate software engineer and student at AltSchool Africa, class of 2023. I'm currently mastering Python and have a strong foundation in JavaScript and CSS. I'm enthusiastic about sharing knowledge, documentation, and building projects that require critical thinking to solve problems. I'm also a teacher to many young and aspiring developers.
 
-Here are some ideas to get you started:
+😊 Fun Fact
+I'm an aspiring Quant Analyst and One Financial Trader who prioritizes leveraging digital skills to build innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interests
+Building algorithms for software and trading systems
+Open source projects
+Hackathons
+Entry-level opportunities
+
+💼 Job Interests
+Software Engineer
+Back-End Engineer (Intern or Junior Level)
+
+📫 Contact Me
+View my resume
+Email: oloruntobaemanuel@gmail.com
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| ------------- | ------------- |
